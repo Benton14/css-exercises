@@ -5,3 +5,13 @@ p {
 .med-text {
     font-size: 24px;
 }
+
+#blue {
+    font-size: 36px;
+    color: #0000ff;
+}
+
+.gb {
+    background-color: #008000;
+    font-weight: bold;
+}
